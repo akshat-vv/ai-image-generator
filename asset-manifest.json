@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/akshat-vv.github.io/ai-image-generator/static/css/main.4a2bb358.css",
+    "main.js": "/akshat-vv.github.io/ai-image-generator/static/js/main.2ae274ba.js",
+    "static/js/787.876c6118.chunk.js": "/akshat-vv.github.io/ai-image-generator/static/js/787.876c6118.chunk.js",
+    "static/media/default_image.jpg": "/akshat-vv.github.io/ai-image-generator/static/media/default_image.7ffc2a3a91612da47a30.jpg",
+    "index.html": "/akshat-vv.github.io/ai-image-generator/index.html",
+    "main.4a2bb358.css.map": "/akshat-vv.github.io/ai-image-generator/static/css/main.4a2bb358.css.map",
+    "main.2ae274ba.js.map": "/akshat-vv.github.io/ai-image-generator/static/js/main.2ae274ba.js.map",
+    "787.876c6118.chunk.js.map": "/akshat-vv.github.io/ai-image-generator/static/js/787.876c6118.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a2bb358.css",
+    "static/js/main.2ae274ba.js"
+  ]
+}
